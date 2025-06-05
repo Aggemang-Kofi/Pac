@@ -14,7 +14,7 @@ Packet sniffing is a technique used to monitor and capture data packets flowing 
 
 ##  How Packet Sniffing Works
 
-![Packet Sniffing Diagram](./your-image-file-name.png)
+![Packet Sniffing Diagram](./Packet%20Sniffer.png)
 
 ### Attack Flow:
 1. **Traffic Interception** – Malicious actor gains access to the network.
